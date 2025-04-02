@@ -98,12 +98,12 @@ font-family: 'Ubuntu Sans', sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 3rem 0;
+    margin: 0.5rem 0;
   }
   
   #hero h1 {
     font-weight: 700;
-    font-size: 4em;
+    font-size: 3.5em;
     margin: 0;
     text-align: center;
   }
@@ -113,14 +113,14 @@ font-family: 'Ubuntu Sans', sans-serif;
   }
   
   #hero p {
-    font-size: 2em;
+    font-size: 1.5em;
     margin: 0.5em 0;
     text-align: center;
   }
   
   #hero img {
-    height: 30rem;
-    margin: 3rem 0;
+    height: 25rem;
+    margin: 2rem 0;
   }
 
 /*ABOUT*/
