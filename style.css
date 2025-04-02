@@ -386,6 +386,11 @@ font-family: 'Ubuntu Sans', sans-serif;
     .aboutContainer {
       padding: 2em 0;
     }
+
+    .projectsContainer{
+      display: flex;
+      flex-direction: column;
+    }
   
     #contact img {
       height: 20rem;
